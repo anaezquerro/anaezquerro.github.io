@@ -1,5 +1,5 @@
 +++
-title = "Honor & Awards 📜"
+title = "Awards & Honors 📜"
 +++
 
 **2023**, **University of A Coruña**: [Extraordinary Degree Award](https://sede.udc.gal/services/electronic_board/EXP2023/012044/document?logicalId=82ae35b0-600e-42b4-95c6-6662abf7fc13&documentCsv=26E6F1P07L3BGS1BHR02GT4D).
