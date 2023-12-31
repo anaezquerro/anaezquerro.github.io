@@ -1,4 +1,3 @@
-title = "Ana Ezquerro"
 
 
 [menu]
@@ -43,4 +42,8 @@ title = "Ana Ezquerro"
         icon = "mail"
         name = "Contact"
         url = "mailto:ana.ezquerro@udc.es"
-
+    [[params.social]]
+        icon = "file-text"
+        name = "CV"
+        url = "https://github.com/anaezquerro/anaezquerro/blob/main/resume.pdf"
+    
