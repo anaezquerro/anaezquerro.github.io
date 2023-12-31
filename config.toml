@@ -1,0 +1,46 @@
+title = "Ana Ezquerro"
+
+
+[menu]
+    [[menu.main]]
+        identifier = "About"
+        name = "About"
+        url = "/about/"
+        weight = 1
+    [[menu.main]]
+        identifier = "traj"
+        name = "Trajectory"
+        url = "/traj/"
+        weight = 2
+    [[menu.main]]
+        identifier = "research"
+        name = "Research"
+        url = "/research/"
+        weight = 4
+    [[menu.main]]
+        identifier = "honor"
+        name = "Awards & Honors"
+        url = "/honor/"
+        weight = 5
+
+[params]
+    author = "Ana Ezquerro"
+    description = "Master Student at University of A Coruña"
+    menu_item_separator = "·"
+    [[params.social]]
+        icon = "github"
+        name = "Github"
+        url = "https://github.com/anaezquerro"
+    [[params.social]]
+        icon = "twitter"
+        name = "Twitter"
+        url = "https://twitter.com/anaezquerro_"
+    [[params.social]]
+        icon = "linkedin"
+        name = "Linkedin"
+        url = "https://www.linkedin.com/in/anaezquerro01"
+    [[params.social]]
+        icon = "mail"
+        name = "Contact"
+        url = "mailto:ana.ezquerro@udc.es"
+
