@@ -8,3 +8,4 @@ title = "Hi! I am Ana Ezquerro 👋."
 
 
 - 🌱: Python as main programming language with proficiency level in Julia, R & SQL and advanced level in Java.
+
