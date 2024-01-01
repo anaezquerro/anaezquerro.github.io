@@ -2,25 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/traj/</loc>
-  </url><url>
     <loc>/</loc>
-  </url><url>
-    <loc>/honor/</loc>
-  </url><url>
-    <loc>/posts/honor/</loc>
-  </url><url>
-    <loc>/categories/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>/about/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>/posts/</loc>
-  </url><url>
-    <loc>/posts/about/</loc>
-  </url><url>
-    <loc>/posts/research/</loc>
+    <loc>/honor/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>/research/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>/traj/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>/categories/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>

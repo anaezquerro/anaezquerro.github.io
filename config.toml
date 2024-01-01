@@ -25,7 +25,7 @@ title = "Ana Ezquerro"
 
 [params]
     author = "Ana Ezquerro"
-    description = "Master Student at University of A Coruña"
+    description = "Master Student & NLP Researcher at University of A Coruña"
     menu_item_separator = "·"
     [[params.social]]
         icon = "github"

@@ -7,84 +7,49 @@
     <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/traj/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/traj/</guid>
-      <description>Education 📚 2019-2023: Data Science and Engineering Degree at University of A Coruña.
- Honor distinction in the Final Degree Project: &amp;ldquo;Fully Incremental Parsing based on Neural Networks&amp;rdquo;.  2023-Present: Master in Artificial Intelligence at University of A Coruña.
-Experience 💻 07/2021-09/2021 (full-time): Research Assistant at CITIC.
- Analysis and comparison of cure models against ML techniques in COVID19 data for UCI admission prediction.  09/2021-04/2022 (full-time): Department Collaboration Scholarship (University of A Coruña, MODES Group).</description>
-    </item>
-    
-    <item>
-      <title>Awards &amp; Honors 📜</title>
-      <link>/honor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/honor/</guid>
-      <description>2023, University of A Coruña: Extraordinary Degree Award.
-2023, Xunta de Galicia: Academic Excellence in University Degrees Award during 2021-2022.
-2022, Xunta de Galicia: Academic Excellence in University Degrees Award during 2020-2021
-2019, University of Santiago de Compostela: Best Academic Records for University Access in Galicia.</description>
-    </item>
-    
-    <item>
-      <title>Awards &amp; Honors 📜</title>
-      <link>/posts/honor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/honor/</guid>
-      <description>2023, University of A Coruña: Extraordinary Degree Award.
-2023, Xunta de Galicia: Academic Excellence in University Degrees Award during 2021-2022.
-2022, Xunta de Galicia: Academic Excellence in University Degrees Award during 2020-2021
-2019, University of Santiago de Compostela: Best Academic Records for University Access in Galicia.</description>
-    </item>
-    
-    <item>
-      <title>Hi! I am Ana Ezquerro 👋.</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>💻: I am a Master Student at University of A Coruña and a part-time researcher in the LyS Group.
+      <description>Hi! I am Ana Ezquerro 👋.   💻: I am a Master Student at University of A Coruña and a part-time researcher in the LyS Group.
   👩‍🎓: Recently graduated in Data Science and Engineering (2019-2023) and currently enrolled in the first year of the Master in Artificial Intelligence.
   🚀: Work &amp;amp; interests: Natural Language Processing, Audio Signal Processing, Multimodal Learning, Reinforcement Learning, Recommender Systems.
   🌱: Python as main programming language with proficiency level in Julia, R &amp;amp; SQL and advanced level in Java.</description>
     </item>
     
     <item>
-      <title>Hi! I am Ana Ezquerro 👋.</title>
-      <link>/posts/about/</link>
+      <title></title>
+      <link>/honor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/about/</guid>
-      <description>💻: I am a Master Student at University of A Coruña and a part-time researcher in the LyS Group.
-  👩‍🎓: Recently graduated in Data Science and Engineering (2019-2023) and currently enrolled in the first year of the Master in Artificial Intelligence.
-  🚀: Work &amp;amp; interests: Natural Language Processing, Audio Signal Processing, Multimodal Learning, Reinforcement Learning, Recommender Systems.
-  🌱: Python as main programming language with proficiency level in Julia, R &amp;amp; SQL and advanced level in Java.</description>
+      <guid>/honor/</guid>
+      <description>Awards &amp;amp; Honors 📜. 2023, University of A Coruña: Extraordinary Degree Award.
+2023, Xunta de Galicia: Academic Excellence in University Degrees Award during 2021-2022.
+2022, Xunta de Galicia: Academic Excellence in University Degrees Award during 2020-2021.
+2019, University of Santiago de Compostela: Best Academic Records for University Access in Galicia.</description>
     </item>
     
     <item>
-      <title>Research ✒️</title>
-      <link>/posts/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/research/</guid>
-      <description>XoveTIC 2022: Automatic covariates selection in dynamic regression models with application to COVID-19 evolution.
-IJCNLP-AACL 2023: On the Challenges of Fully Incremental Neural Dependency Parsing.
-Mathematics 2023: On the Reliability of Machine Learning Models for Survival Analysis When Cure Is a Possibility.</description>
-    </item>
-    
-    <item>
-      <title>Research ✒️</title>
+      <title></title>
       <link>/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/</guid>
-      <description>XoveTIC 2022: Automatic covariates selection in dynamic regression models with application to COVID-19 evolution.
+      <description>Research ✒️. XoveTIC 2022: Automatic covariates selection in dynamic regression models with application to COVID-19 evolution.
 IJCNLP-AACL 2023: On the Challenges of Fully Incremental Neural Dependency Parsing.
 Mathematics 2023: On the Reliability of Machine Learning Models for Survival Analysis When Cure Is a Possibility.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/traj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/traj/</guid>
+      <description>Education 📚. 2019-2023: Data Science and Engineering Degree at University of A Coruña.
+ Honor distinction in the Final Degree Project: &amp;ldquo;Fully Incremental Parsing based on Neural Networks&amp;rdquo;.  2023-Present: Master in Artificial Intelligence at University of A Coruña.
+Experience 💻. 07/2021-09/2021 (full-time): Research Assistant at CITIC.
+ Analysis and comparison of cure models against ML techniques in COVID19 data for UCI admission prediction.  09/2021-04/2022 (full-time): Department Collaboration Scholarship (University of A Coruña, MODES Group).</description>
     </item>
     
   </channel>
