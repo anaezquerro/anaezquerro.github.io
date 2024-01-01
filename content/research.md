@@ -1,6 +1,4 @@
-+++
-title = "Research ✒️"
-+++
+# Research ✒️.
 
 **XoveTIC 2022**: [*Automatic covariates selection in dynamic regression models with application to COVID-19 evolution*](https://xovetic.citic.udc.es/wp-content/uploads/2022/10/paper_7565.pdf).
 

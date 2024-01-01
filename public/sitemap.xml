@@ -4,13 +4,21 @@
   <url>
     <loc>/traj/</loc>
   </url><url>
+    <loc>/</loc>
+  </url><url>
     <loc>/honor/</loc>
+  </url><url>
+    <loc>/posts/honor/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
-    <loc>/</loc>
-  </url><url>
     <loc>/about/</loc>
+  </url><url>
+    <loc>/posts/</loc>
+  </url><url>
+    <loc>/posts/about/</loc>
+  </url><url>
+    <loc>/posts/research/</loc>
   </url><url>
     <loc>/research/</loc>
   </url><url>

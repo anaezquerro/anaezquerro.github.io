@@ -1,8 +1,4 @@
-+++
-title = ""
-+++
-
-## Education 📚
+## Education 📚.
 
 
 
@@ -13,7 +9,8 @@ title = ""
 **2023-Present**: Master in Artificial Intelligence at University of A Coruña.
 
 
-## Experience 💻
+## Experience 💻.
+
 **07/2021-09/2021** (full-time): Research Assistant at [CITIC](https://citic.udc.es/en/home-english-2/).
 - Analysis and comparison of cure models against ML techniques in COVID19 data for UCI admission prediction.
 
