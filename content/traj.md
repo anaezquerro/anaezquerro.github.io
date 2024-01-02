@@ -1,7 +1,7 @@
 ## Education 📚.
 
 
-
+**2014-2015**: Piano Professional Degree at *Xan Viaño* Professional Conservatory of Music.
 
 **2019-2023**: Data Science and Engineering Degree at University of A Coruña.
 - Honor distinction in the Final Degree Project: [*"Fully Incremental Parsing based on Neural Networks"*](https://ruc.udc.es/dspace/handle/2183/33269).
