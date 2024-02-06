@@ -6,6 +6,6 @@
 
 - *[Ana Ezquerro](https://anaezquerro.github.io), [Brais Cancela](https://pdi.udc.es/es/File/Pdi/9Y9SH), [Ana López-Cheda](https://pdi.udc.es/es/File/Pdi/GJ85H)*. [On the Reliability of Machine Learning Models for Survival Analysis When Cure Is a Possibility](https://www.mdpi.com/2227-7390/11/19/4150). In Mathematics Vol. 11, Nonparametric Statistical Methods and their Applications.
 
-- *[Ana Ezquerro](https://anaezquerro.github.io), [Carlos Gómez-Rodríguez](https://www.grupolys.org/~cgomezr/), and [David Vilares](https://www.grupolys.org/~david.vilares/)*. From Partial to Strictly Incremental Constituent Parsing. In EACL 2024, the 18th Conference of the European Chapter of the Association for Computational Linguistics, St. Julians, Malta.
+- *[Ana Ezquerro](https://anaezquerro.github.io), [Carlos Gómez-Rodríguez](https://www.grupolys.org/~cgomezr/), and [David Vilares](https://www.grupolys.org/~david.vilares/)*. [From Partial to Strictly Incremental Constituent Parsing](https://arxiv.org/abs/2402.02782). In EACL 2024, the 18th Conference of the European Chapter of the Association for Computational Linguistics, St. Julians, Malta.
 
 
