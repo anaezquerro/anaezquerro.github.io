@@ -19,7 +19,7 @@ title = "Ana Ezquerro"
         weight = 4
     [[menu.main]]
         identifier = "honor"
-        name = "Awards & Honors"
+        name = "Honors"
         url = "/honor/"
         weight = 5
 
