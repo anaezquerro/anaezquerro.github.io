@@ -4,7 +4,7 @@
 **2014-2015**: Piano Professional Degree at *Xan Viaño* Professional Conservatory of Music.
 
 **2019-2023**: Data Science and Engineering Degree at University of A Coruña.
-- Academic record of 9.0 with 15 courses passed with Honor Registrations [🗎](https://anaezquerro.github.io/bachelor-record.pdf).
+- Academic record of 9.0 with 15 courses passed with Honor Registrations.
 - Honor distinction in the Final Degree Project: [*"Fully Incremental Parsing based on Neural Networks"*](https://ruc.udc.es/dspace/handle/2183/33269).
 
 **2023-Present**: Master in Artificial Intelligence at University of A Coruña.
