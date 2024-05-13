@@ -6,16 +6,16 @@
   /* 2f5c8f */
   /* used as background-color of elements , used as common color for elements, used as to highlight some part of code*/
   --primary-color: black;
-  --secondary-color: #c2ccdf;
+  --secondary-color: #F8F9FB;
   --accent-color: #ADD8E6;
   --note-color: rgb(250, 115, 115);
-  --heading-color: #c2ccdf;
+  --heading-color: #F8F9FB;
   --container-border-color: #727382;
-  --text-color: #727382;
+  --text-color: #E6EAF2;
   --navbar-height: 70px; /* We can use this to define padding for many elements. */
   --menu-button-width: 32px;
   --menu-button-height: 4px;
-  --shadow-one:  #c2ccdf; /* Adjusted for dark mode */
+  --shadow-one:  #F8F9FB; /* Adjusted for dark mode */
   --shadow-two: rgba(255, 255, 255, 0.15);
 }
 
