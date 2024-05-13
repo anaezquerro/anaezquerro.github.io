@@ -32,6 +32,11 @@ author = "anaezquerro"
     url = "/"
     weight = 10
   [[menu.main]]
+    name = "About"
+    pre = "about"
+    url = "/about/"
+    weight = 15
+  [[menu.main]]
     name = "Trajectory"
     pre = "trajectory"
     url = "/trajectory/"

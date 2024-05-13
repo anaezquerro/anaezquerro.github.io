@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html
+  lang="en-us"
+  dir="ltr"
+>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width" />
+<title>
+   | Ana Ezquerro
+</title>
+
+<link rel="stylesheet" href="/css/main.css" />
+
+
+  </head>
+  <body>
+    <header>
+<nav class="navbar">
+  <a href="/">
+    
+    <p class="logo"></p>
+  </a>
+<input type="checkbox" id="overlay-input" />
+<label for="overlay-input" id="overlay-button"><span></span></label>
+  <div id="overlay">
+    <ul>
+
+    <li>
+      <a href="/">Home</a>
+    </li>
+
+    <li>
+      <a href="/about/">About</a>
+    </li>
+
+    <li>
+      <a href="/trajectory/">Trajectory</a>
+    </li>
+
+    <li>
+      <a class="active_menu" href="/research/">Research</a>
+    </li>
+
+    <li>
+      <a href="/honor/">Honors</a>
+    </li>
+  
+      <li><button id="mode-toggle">☀️</button></li>
+    </ul>
+  </div>
+</nav>
+</header>
+
+    
+
+<main class="main-content">
+  
+  <section class="default"><h1 id="-research">🚀 Research</h1>
+<ul>
+<li>
+<p><em><a href="https://anaezquerro.github.io">Ana Ezquerro</a>, <a href="https://dm.udc.es/staff/german_aneiros/">Germán Aneiros-Pérez</a>, <a href="https://pdi.udc.es/gl/File/Pdi/3K3FM">Manuel Oviedo</a></em>. <a href="https://xovetic.citic.udc.es/wp-content/uploads/2022/10/paper_7565.pdf">Automatic covariates selection in dynamic regression models with application to COVID-19 evolution</a>. In XoveTIC V Conference founded by the Centre for Information and Communications Technology Research (CITIC)  with the University of A Coruña (UDC).</p>
+</li>
+<li>
+<p><em><a href="https://anaezquerro.github.io">Ana Ezquerro</a>, <a href="https://www.grupolys.org/~cgomezr/">Carlos Gómez-Rodríguez</a>, and <a href="https://www.grupolys.org/~david.vilares/">David Vilares</a></em>. <a href="https://arxiv.org/abs/2309.16254v1">On the Challenges of Fully Incremental Neural Dependency Parsing</a>. In IJCNLP-AACL 2023, the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, Bali, Indonesia.</p>
+</li>
+<li>
+<p><em><a href="https://anaezquerro.github.io">Ana Ezquerro</a>, <a href="https://pdi.udc.es/es/File/Pdi/9Y9SH">Brais Cancela</a>, <a href="https://pdi.udc.es/es/File/Pdi/GJ85H">Ana López-Cheda</a></em>. <a href="https://www.mdpi.com/2227-7390/11/19/4150">On the Reliability of Machine Learning Models for Survival Analysis When Cure Is a Possibility</a>. In Mathematics Vol. 11, Nonparametric Statistical Methods and their Applications.</p>
+</li>
+<li>
+<p><em><a href="https://anaezquerro.github.io">Ana Ezquerro</a>, <a href="https://www.grupolys.org/~cgomezr/">Carlos Gómez-Rodríguez</a>, and <a href="https://www.grupolys.org/~david.vilares/">David Vilares</a></em>. From Partial to Strictly Incremental Constituent Parsing. In EACL 2024, the 18th Conference of the European Chapter of the Association for Computational Linguistics, St. Julians, Malta.</p>
+</li>
+<li>
+<p><em><a href="https://anaezquerro.github.io">Ana Ezquerro</a> and <a href="https://www.grupolys.org/~david.vilares/">David Vilares</a></em>. <a href="">LyS at SemEval 2024 Task 3. An Early Prototype for End‑to‑End Multimodal Emotion Linking as Graph‑Based Parsing</a> (to appear). In the 18th International Workshop on Semantic Evaluation co‑located with the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NACL 2024).</p>
+</li>
+</ul>
+</section>
+  
+</main>
+
+
+    <footer>
+
+<script src="/js/main.js"></script>
+<script>
+  var prevScrollPos = window.pageYOffset;
+  var checkBox = document.getElementById("overlay-input");
+
+
+  window.onscroll = function () {
+    var currentScrollPos = window.pageYOffset;
+    var header = document.getElementsByTagName("header")[0];
+
+    if (prevScrollPos > currentScrollPos) {
+      header.style.display = "flex";
+    } else {
+      header.style.display = "none";
+      checkBox.checked = false;
+    }
+    prevScrollPos = currentScrollPos;
+  };
+</script>
+<script>
+  
+  document.querySelectorAll("pre > code").forEach((codeblock) => {
+    const container = codeblock.parentNode.parentNode;
+
+    const copybutton = document.createElement("button");
+    copybutton.classList.add("copy-code");
+    copybutton.innerText = 'copy';
+
+    function copyingDone() {
+      copybutton.innerText = 'copied!';
+      setTimeout(() => {
+        copybutton.innerText = 'copy';
+      }, 2000);
+    }
+
+    copybutton.addEventListener("click", (cb) => {
+      if ("clipboard" in navigator) {
+        navigator.clipboard.writeText(codeblock.textContent);
+        copyingDone();
+        return;
+      }
+
+      const range = document.createRange();
+      range.selectNodeContents(codeblock);
+      const selection = window.getSelection();
+      selection.removeAllRanges();
+      selection.addRange(range);
+      try {
+        document.execCommand("copy");
+        copyingDone();
+      } catch (e) {}
+      selection.removeRange(range);
+    });
+
+if (container.classList.contains("highlight")) {
+
+      container.appendChild(copybutton);
+    } else if (container.parentNode.firstChild == container) {
+      
+    } else if (
+      codeblock.parentNode.parentNode.parentNode.parentNode.parentNode
+        .nodeName == "TABLE"
+    ) {
+      
+      codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(
+        copybutton
+      );
+    } else {
+      
+      codeblock.parentNode.appendChild(copybutton);
+    }
+  });
+</script>
+
+</footer>
+  </body>
+</html>
