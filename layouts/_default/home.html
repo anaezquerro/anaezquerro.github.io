@@ -9,7 +9,7 @@
         <h1>{{ .Site.Params.name }}</h1>
         <h2>{{ .Site.Params.role }}</h4>
       </span>
-      <p>{{ .Site.Params.slogan }}</p>
+      <p><font size="4ex">{{ .Site.Params.slogan }}</font></p>
       <div class="socials">
         {{ range .Site.Params.socials }}
           {{ if eq .name "Email" }}

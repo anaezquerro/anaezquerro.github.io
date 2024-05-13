@@ -6,7 +6,7 @@
 
 - *[Ana Ezquerro](https://anaezquerro.github.io), [Brais Cancela](https://pdi.udc.es/es/File/Pdi/9Y9SH), [Ana López-Cheda](https://pdi.udc.es/es/File/Pdi/GJ85H)*. [On the Reliability of Machine Learning Models for Survival Analysis When Cure Is a Possibility](https://www.mdpi.com/2227-7390/11/19/4150). In Mathematics Vol. 11, Nonparametric Statistical Methods and their Applications.
 
-- *[Ana Ezquerro](https://anaezquerro.github.io), [Carlos Gómez-Rodríguez](https://www.grupolys.org/~cgomezr/), and [David Vilares](https://www.grupolys.org/~david.vilares/)*. From Partial to Strictly Incremental Constituent Parsing. In EACL 2024, the 18th Conference of the European Chapter of the Association for Computational Linguistics, St. Julians, Malta.
+- *[Ana Ezquerro](https://anaezquerro.github.io), [Carlos Gómez-Rodríguez](https://www.grupolys.org/~cgomezr/), and [David Vilares](https://www.grupolys.org/~david.vilares/)*. [From Partial to Strictly Incremental Constituent Parsing](https://aclanthology.org/2024.eacl-short.21/). In EACL 2024, the 18th Conference of the European Chapter of the Association for Computational Linguistics, St. Julians, Malta.
 
 
 - *[Ana Ezquerro](https://anaezquerro.github.io) and [David Vilares](https://www.grupolys.org/~david.vilares/)*. [LyS at SemEval 2024 Task 3. An Early Prototype for End‑to‑End Multimodal Emotion Linking as Graph‑Based Parsing](https://arxiv.org/abs/2405.06483). In the 18th International Workshop on Semantic Evaluation co‑located with the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NACL 2024).
