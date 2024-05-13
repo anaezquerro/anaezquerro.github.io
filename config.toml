@@ -1,50 +1,50 @@
-
-title = "Ana Ezquerro"
-
-[menu]
-    [[menu.main]]
-        identifier = "About"
-        name = "About"
-        url = "/about/"
-        weight = 1
-    [[menu.main]]
-        identifier = "traj"
-        name = "Trajectory"
-        url = "/traj/"
-        weight = 2
-    [[menu.main]]
-        identifier = "research"
-        name = "Research"
-        url = "/research/"
-        weight = 4
-    [[menu.main]]
-        identifier = "honor"
-        name = "Honors"
-        url = "/honor/"
-        weight = 5
+languageCode = 'en-us'
+title = 'Ana Ezquerro'
+author = "anaezquerro"
 
 [params]
-    author = "Ana Ezquerro"
-    description = "Master Student & NLP Researcher at University of A Coruña"
-    menu_item_separator = "·"
-    [[params.social]]
-        icon = "github"
-        name = "Github"
+    logoText = ""
+    isBlogFocused = false
+    showHeroImage = true
+    showResumeButton = false
+    name = "Ana Ezquerro"
+    slogan = "Master Student & NLP Researcher"
+    [[params.socials]]
+        name = "GitHub"
         url = "https://github.com/anaezquerro"
-    [[params.social]]
-        icon = "twitter"
-        name = "Twitter"
-        url = "https://twitter.com/anaezquerro_"
-    [[params.social]]
-        icon = "linkedin"
+    [[params.socials]]
         name = "Linkedin"
         url = "https://www.linkedin.com/in/anaezquerro01"
-    [[params.social]]
-        icon = "mail"
-        name = "Contact"
+    [[params.socials]]
+        name = "Twitter"
+        url = "https://twitter.com/anaezquerro_"
+    [[params.socials]]
+        name = "Email"
         url = "mailto:ana.ezquerro@udc.es"
-    [[params.social]]
-        icon = "file-text"
+    [[params.socials]]
         name = "CV"
         url = "https://anaezquerro.github.io/certificates/resume.pdf"
-    
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    name = "Trajectory"
+    pre = "trajectory"
+    url = "/trajectory/"
+    weight = 20
+  [[menu.main]]
+    name = "Research"
+    pre = "research"
+    url = "/research/"
+    weight = 30
+  [[menu.main]]
+   name = "Honors"
+   pre = "honor"
+   url = "/honor/"
+   weight = 40
+
+
