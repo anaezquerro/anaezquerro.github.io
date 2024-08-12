@@ -25,3 +25,6 @@
 - **2020-Present**: Active member in the Student Board of the Computer Science Faculty at University of A Coruña.
 - **2022-Present**: Member of the Master in Artificial Intelligence Committee.
 - **2023-Present**: Member of Docentia's Program Tribunal.
+
+## 📝 Courses
+- **2024**: [LxMLS 2024](http://lxmls.it.pt/2024/.) The 14th Lisbon Machine Learning School.
