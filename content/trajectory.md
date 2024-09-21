@@ -15,8 +15,8 @@
 - **09/2022-10/2022** (part-time): Student Scholarship at [Galician Institute in Technology](https://itg.es/en/).
 - **02/2023-09/2023** (part-time): Student Internship at [ABANCA](https://www.abanca.com/es/).
 - **07/2023-09/2023** (part-time): Research Assistant at [Centre for ICT Research](https://citic.udc.es/en/home-english-2/).
-- **10/2023-Present** (part-time): Research Support Technician at  [Centre for ICT Research](https://citic.udc.es/en/home-english-2/).
-
+- **10/2023-05/2024** (part-time): Research Support Technician at  [Centre for ICT Research](https://citic.udc.es/en/home-english-2/).
+- **06/2024-Present** (full-time): Research Support Technician at [Centre for ICT Research](https://citic.udc.es/en/home-english-2/).
 
 
 ## 📍 Additional positions
@@ -27,4 +27,4 @@
 - **2023-Present**: Member of Docentia's Program Tribunal.
 
 ## 📝 Courses
-- **2024**: [LxMLS 2024](http://lxmls.it.pt/2024/.) The 14th Lisbon Machine Learning School.
+- **2024**: [The 14th Lisbon Machine Learning School (LxMLS 2024)](http://lxmls.it.pt/2024/.).
