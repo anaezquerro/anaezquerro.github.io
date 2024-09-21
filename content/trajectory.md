@@ -10,13 +10,13 @@
 
 ## 💼 Experience
 
-- **07/2021-09/2021** (full-time): Research Assistant at [Centre for ICT Research](https://citic.udc.es/en/home-english-2/).
+- **07/2021-09/2021** (full-time): Research Assistant at [Centre for Information and Communications Technology Research (CITIC)](https://citic.udc.es/en/home-english-2/).
 - **09/2021-04/2022** (full-time): Department Collaboration Scholarship (University of A Coruña, [MODES](https://dm.udc.es/modes/) Group).
 - **09/2022-10/2022** (part-time): Student Scholarship at [Galician Institute in Technology](https://itg.es/en/).
 - **02/2023-09/2023** (part-time): Student Internship at [ABANCA](https://www.abanca.com/es/).
-- **07/2023-09/2023** (part-time): Research Assistant at [Centre for ICT Research](https://citic.udc.es/en/home-english-2/).
-- **10/2023-05/2024** (part-time): Research Support Technician at  [Centre for ICT Research](https://citic.udc.es/en/home-english-2/).
-- **06/2024-Present** (full-time): Research Support Technician at [Centre for ICT Research](https://citic.udc.es/en/home-english-2/).
+- **07/2023-09/2023** (part-time): Research Assistant at [Centre for Information and Communications Technology Research (CITIC)](https://citic.udc.es/en/home-english-2/).
+- **10/2023-05/2024** (part-time): Research Support Technician at  [Centre for Information and Communications Technology Research (CITIC)](https://citic.udc.es/en/home-english-2/).
+- **06/2024-Present** (full-time): Research Support Technician at [Centre for Information and Communications Technology Research (CITIC)](https://citic.udc.es/en/home-english-2/).
 
 
 ## 📍 Additional positions
