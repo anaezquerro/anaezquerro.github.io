@@ -46,7 +46,7 @@
 
 - **Dependency Graph Parsing as Sequence Labeling** 
 
-    [Ana Ezquerro](https://anaezquerro.github.io), [David Vilares](https://www.grupolys.org/~david.vilares/)* and  [Carlos Gómez-Rodríguez](https://www.grupolys.org/~cgomezr/)
+    [Ana Ezquerro](https://anaezquerro.github.io), [David Vilares](https://www.grupolys.org/~david.vilares/) and  [Carlos Gómez-Rodríguez](https://www.grupolys.org/~cgomezr/)
 
     *In the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)*
 
