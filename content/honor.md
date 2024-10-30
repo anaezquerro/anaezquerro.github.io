@@ -1,4 +1,4 @@
-# 🪐 Honors
+# Honors
 
 - *2019*. [Best Academic Records for the University Test Access in Galicia](https://www.usc.gal/export9/sites/webinstitucional/gl/perfis/futuros/aponte/descargas/tarxeton_2019.pdf) offered by the [University of Santiago de Compostela](https://www.usc.gal/en).
 

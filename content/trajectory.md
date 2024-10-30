@@ -1,4 +1,4 @@
-## 🎓 Education
+## Education
 
 - **2014-2015**: Piano Professional Degree at *Xan Viaño* Professional Conservatory of Music.
 
@@ -8,7 +8,7 @@
 - **2023-Present**: Master in Artificial Intelligence at University of A Coruña.
 
 
-## 💼 Experience
+## Experience
 
 - **07/2021-09/2021** (full-time): Research Assistant at [Centre for Information and Communications Technology Research (CITIC)](https://citic.udc.es/en/home-english-2/).
 - **09/2021-04/2022** (full-time): Department Collaboration Scholarship (University of A Coruña, [MODES](https://dm.udc.es/modes/) Group).
@@ -19,12 +19,12 @@
 - **06/2024-Present** (full-time): Research Support Technician at [Centre for Information and Communications Technology Research (CITIC)](https://citic.udc.es/en/home-english-2/).
 
 
-## 📍 Additional positions
+## Additional positions
 
 - **2020-2023**: Compensation Tribunal member of the Computer Science Faculty at University of A Coruña.
 - **2020-Present**: Active member in the Student Board of the Computer Science Faculty at University of A Coruña.
 - **2022-Present**: Member of the Master in Artificial Intelligence Committee.
 - **2023-Present**: Member of Docentia's Program Tribunal.
 
-## 📝 Courses
+## Courses
 - **2024**: [The 14th Lisbon Machine Learning School (LxMLS 2024)](http://lxmls.it.pt/2024/.).

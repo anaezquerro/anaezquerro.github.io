@@ -22,7 +22,7 @@
 :root.light-mode {
   --primary-color: white;
   --secondary-color: #454963;
-  --accent-color: #ff6969;
+  --accent-color: #1f7dd4;
   --note-color: rgb(250, 115, 115);
   --heading-color: #233044;
   --container-border-color: #454963;
@@ -68,7 +68,7 @@ html {
 
 a {
   color: var(--accent-color);
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 body {
