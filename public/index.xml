@@ -33,13 +33,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/</guid>
-      <description>Research   Automatic covariates selection in dynamic regression models with application to COVID-19 evolution
-Ana Ezquerro, Germán Aneiros-Pérez and Manuel Oviedo
-In the 5th XoveTIC Conference (XoveTIC 2022)
-pdf | code | slides
-  On the Challenges of Fully Incremental Neural Dependency Parsing
-Ana Ezquerro, Carlos Gómez-Rodríguez and David Vilares
-In the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL 2023)</description>
+      <description>Research   Dependency Graph Parsing as Sequence Labeling
+Ana Ezquerro, David Vilares and Carlos Gómez-Rodríguez
+In the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)
+preprint | code | slides | poster
+  LyS at SemEval 2024 Task 3. An Early Prototype for End‑to‑End Multimodal Emotion Linking as Graph‑Based Parsing
+Ana Ezquerro and David Vilares
+In the 18th International Workshop on Semantic Evaluation (SemEval 2024) co‑located with the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NACL 2024)</description>
     </item>
     
     <item>
