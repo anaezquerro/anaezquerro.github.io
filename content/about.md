@@ -1,7 +1,3 @@
-# Hi! I am Ana Ezquerro.
+Hi! I am **Ana Ezquerro**, a second-year student in the [Master in Artificial Intelligence](https://mia.udc.es/) at [University of A Coruña](https://www.udc.es) and a full-time researcher at [LyS Group](https://www.grupolys.org/). I obtained my bachelor degree in [Data Science and Engineering](https://estudos.udc.es/en/study/detail/614g02v01) in 2023.
 
-- I am Master Student at [University of A Coruña](https://www.udc.es/) and a full-time researcher in the [LyS Group](https://www.grupolys.org/).
-- Recently graduated in [Data Science and Engineering](https://estudos.udc.es/en/study/detail/614g02v01) (2019-2023) and currently enrolled in the second year of the [Master in Artificial Intelligence](https://mia.udc.es/).
-- Planning a PhD degree on Human-like Incremental Language Representations.
-- Previous work on NLP and Multimodal Learning.
-- Python as main programming language with proficiency level in Julia, R & SQL and advanced level in Java.
+My previous research covers Time Series Analysis and Machine Learning algorithms and right now I am working in Graph and Tree (Incremental) Parsing and Multimodal learning. I am also planning a PhD degree on Human-like Incremental Language Representations. I have Python as main programming language with proficiency level in Julia, R & SQL and advanced level in Java.
