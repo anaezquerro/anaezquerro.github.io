@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ana Ezquerro</title>
+    <link>/</link>
+    <description>Recent content on Ana Ezquerro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hi👋 I am Ana Ezquerro.  I&amp;rsquo;m a second-year student in the Master in Artificial Intelligence at University of A Coruña and a full-time researcher at the LyS Group. I previously obtained my bachelor degree in Data Science and Engineering in 2023. My initial research covers time series analysis and machine learning algorithms and right now I am working on graph/tree (incremental) parsing and multimodal learning. I am also planning a PhD degree on human-like incremental language representations.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/honor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/honor/</guid>
+      <description>Honors   2019. Best Academic Records for the University Test Access in Galicia offered by the University of Santiago de Compostela.
+  2022. Department Collaboration Scholarship offered by the University of A Coruña and Banco Santander.
+  2022. Awards for Academic Excellence in Bachelor&amp;rsquo;s Degrees 2020-21 offered by Xunta de Galicia.
+  2023. Awards for Academic Excellence in Bachelor&amp;rsquo;s Degrees 2021-22 offered by Xunta de Galicia.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Research   Dependency Graph Parsing as Sequence Labeling
+Ana Ezquerro, David Vilares and Carlos Gómez-Rodríguez
+In the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)
+preprint | code | slides | poster
+  LyS at SemEval 2024 Task 3. An Early Prototype for End‑to‑End Multimodal Emotion Linking as Graph‑Based Parsing
+Ana Ezquerro and David Vilares
+In the 18th International Workshop on Semantic Evaluation (SemEval 2024) co‑located with the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NACL 2024)</description>
+    </item>
+    
+  </channel>
+</rss>
