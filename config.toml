@@ -8,7 +8,7 @@ author = "anaezquerro"
     showHeroImage = true
     showResumeButton = false
     name = "Ana Ezquerro"
-    slogan = "Master Student & NLP Researcher"
+    slogan = ""
     [[params.socials]]
         name = "GitHub"
         url = "https://github.com/anaezquerro"
@@ -37,19 +37,9 @@ author = "anaezquerro"
     url = "/about/"
     weight = 15
   [[menu.main]]
-    name = "Trajectory"
-    pre = "trajectory"
-    url = "/trajectory/"
-    weight = 20
-  [[menu.main]]
     name = "Research"
     pre = "research"
     url = "/research/"
     weight = 30
-  [[menu.main]]
-   name = "Honors"
-   pre = "honor"
-   url = "/honor/"
-   weight = 40
 
 
