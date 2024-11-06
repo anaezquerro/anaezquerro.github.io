@@ -27,19 +27,25 @@ author = "anaezquerro"
 
 [menu]
   [[menu.main]]
-    name = "Home"
-    pre = "home"
+    name = ""
+    pre = ""
     url = "/"
-    weight = 10
   [[menu.main]]
-    name = "About"
-    pre = "about"
-    url = "/about/"
-    weight = 15
+    name = "GitHub"
+    url = "https://github.com/anaezquerro"
+    weight = 2
   [[menu.main]]
-    name = "Research"
-    pre = "research"
-    url = "/research/"
-    weight = 30
+    name = "Linkedin"
+    url = "https://www.linkedin.com/in/anaezquerro01"
+    weight = 3
+  [[menu.main]]
+    name = "Email"
+    url = "mailto:ana.ezquerro@udc.es"
+    weight = 4
+  [[menu.main]]
+    name = "CV"
+    url = "https://anaezquerro.github.io/certificates/resume.pdf"
+    weight = 5
+
 
 

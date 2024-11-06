@@ -141,7 +141,7 @@ header .navbar a {
   /* color for navbar links is defined below in overlay section  */
   text-decoration: none;
   color: var(--secondary-color);
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .navbar button {
