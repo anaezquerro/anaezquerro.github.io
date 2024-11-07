@@ -66,6 +66,6 @@ My initial research covers **time series** analysis and **machine learning** alg
     
     *In the 5th XoveTIC Conference (XoveTIC 2022)*
     
-    [pdf](https://xovetic.citic.udc.es/wp-content/uploads/2022/10/paper_7565.pdf)  |  [code](https://github.com/anaezquerro/dynamic-arimax)  |  [slides](https://github.com/anaezquerro/dynamic-arimax/blob/main/proceedings/presentation.pdf)
+    [pdf](https://easychair.org/publications/paper/1gRq)  |  [code](https://github.com/anaezquerro/dynamic-arimax)  |  [slides](https://github.com/anaezquerro/dynamic-arimax/blob/main/proceedings/presentation.pdf)
 
 
