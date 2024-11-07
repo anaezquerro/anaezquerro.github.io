@@ -9,21 +9,6 @@ author = "anaezquerro"
     showResumeButton = false
     name = "Ana Ezquerro"
     slogan = ""
-    [[params.socials]]
-        name = "GitHub"
-        url = "https://github.com/anaezquerro"
-    [[params.socials]]
-        name = "Linkedin"
-        url = "https://www.linkedin.com/in/anaezquerro01"
-    [[params.socials]]
-        name = "Twitter"
-        url = "https://twitter.com/anaezquerro_"
-    [[params.socials]]
-        name = "Email"
-        url = "mailto:ana.ezquerro@udc.es"
-    [[params.socials]]
-        name = "CV"
-        url = "https://anaezquerro.github.io/certificates/resume.pdf"
 
 [menu]
   [[menu.main]]
@@ -43,9 +28,13 @@ author = "anaezquerro"
     url = "mailto:ana.ezquerro@udc.es"
     weight = 4
   [[menu.main]]
+    name = "Twitter"
+    url = "https://x.com/anaezquerro_"
+    weight = 5
+  [[menu.main]]
     name = "CV"
     url = "https://anaezquerro.github.io/certificates/resume.pdf"
-    weight = 5
+    weight = 6
 
 
 

@@ -69,5 +69,3 @@ My initial research covers **time series** analysis and **machine learning** alg
     [pdf](https://xovetic.citic.udc.es/wp-content/uploads/2022/10/paper_7565.pdf)  |  [code](https://github.com/anaezquerro/dynamic-arimax)  |  [slides](https://github.com/anaezquerro/dynamic-arimax/blob/main/proceedings/presentation.pdf)
 
 
-
-
