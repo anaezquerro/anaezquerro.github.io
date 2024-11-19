@@ -11,6 +11,7 @@ My initial research covers **time series** analysis and **machine learning** alg
 
 ## News
 
+- **Nov 19, 2024**: If you have approached me in our poster session at [EMNLP 2024](https://2024.emnlp.org/) (or you did not have time to do it), feel free to ask any doubt about our work😄.
 - **Nov 6, 2024**: Headed to Miami🏖️ to present our graph linearizations at [EMNLP 2024](https://2024.emnlp.org/)!
 
 ## Research 
@@ -21,8 +22,7 @@ My initial research covers **time series** analysis and **machine learning** alg
 
     *In the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)*
 
-    [preprint](https://arxiv.org/abs/2410.17972)  |  [code](https://github.com/anaezquerro/separ)  |  [slides](https://anaezquerro.github.io/material/emnlp-2024-slides.pdf)  |  [poster](https://anaezquerro.github.io/material/emnlp-2024-poster.pdf)
-
+    [pdf](https://aclanthology.org/2024.emnlp-main.659/)  |  [code](https://github.com/anaezquerro/separ)  |  [slides](https://anaezquerro.github.io/material/emnlp-2024-slides.pdf)  |  [poster](https://anaezquerro.github.io/material/emnlp-2024-poster.pdf)
 
 
 - **LyS at SemEval 2024 Task 3. An Early Prototype for End‑to‑End Multimodal Emotion Linking as Graph‑Based Parsing**
