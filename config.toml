@@ -33,7 +33,7 @@ author = "anaezquerro"
     weight = 5
   [[menu.main]]
     name = "CV"
-    url = "https://anaezquerro.github.io/certificates/resume.pdf"
+    url = "https://anaezquerro.github.io/material/AnaEzquerro.pdf"
     weight = 6
 
 
