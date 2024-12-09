@@ -11,10 +11,17 @@ My initial research covers **time series** analysis and **machine learning** alg
 
 ## News
 
+- **Dec 9, 2024**: Paper accepted a NoDaLiDa-2025!
 - **Nov 19, 2024**: If you have approached me in our poster session at [EMNLP 2024](https://2024.emnlp.org/) (or you did not have time to do it), feel free to ask any doubt about our work😄.
 - **Nov 6, 2024**: Headed to Miami🏖️ to present our graph linearizations at [EMNLP 2024](https://2024.emnlp.org/)!
 
 ## Research 
+
+- **Better Benchmarking LLMs for Zero-Shot Dependency Parsing** (to appear)
+
+    [Ana Ezquerro](https://anaezquerro.github.io), [David Vilares](https://www.grupolys.org/~david.vilares/) and  [Carlos Gómez-Rodríguez](https://www.grupolys.org/~cgomezr/)
+
+    *In the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)*.
 
 - **Dependency Graph Parsing as Sequence Labeling** 
 
