@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ana Ezquerro</title>
-    <link>https://anaezquerro.github.io/</link>
+    <link>https://anaezquerro.github.io/about/</link>
     <description>Recent content on Ana Ezquerro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://anaezquerro.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://anaezquerro.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://anaezquerro.github.io/about/</link>
+      <link>https://anaezquerro.github.io/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anaezquerro.github.io/about/</guid>
+      <guid>https://anaezquerro.github.io/about/about/</guid>
       <description>Hi👋 I am Ana Ezquerro. I&amp;rsquo;m a second-year student in the Master in Artificial Intelligence at University of A Coruña and a full-time researcher at the LyS Group. I previously obtained my bachelor degree in Data Science and Engineering in 2023.
 My initial research covers time series analysis and machine learning algorithms applied to statistics and right now I am working on graph/tree (incremental) parsing and multimodal learning. I am also planning a PhD degree on human-like incremental language representations.</description>
     </item>
