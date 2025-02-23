@@ -10,7 +10,7 @@ baseURL = "https://anaezquerro.github.io/about"
     showHeroImage = true
     showResumeButton = false
     name = "Ana Ezquerro"
-    slogan = ""
+    slogan = "NLP Researcher at University of A Coruña"
 
 [menu]
   [[menu.main]]
