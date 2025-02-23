@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://anaezquerro.github.io/about/about/</loc>
+    <loc>/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://anaezquerro.github.io/about/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>https://anaezquerro.github.io/about/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://anaezquerro.github.io/about/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
