@@ -2,6 +2,9 @@ languageCode = 'en-us'
 title = 'Ana Ezquerro'
 author = "anaezquerro"
 
+[markup]
+  defaultMarkdownHandler = "goldmark"
+
 
 [params]
     logoText = ""
