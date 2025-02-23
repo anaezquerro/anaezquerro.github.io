@@ -11,6 +11,7 @@ My initial research covers **time series** analysis and **machine learning** alg
 
 ## News
 
+- **Feb 21, 2025**: Completed my [Master's degree in Artificial Intelligence (UDC)](https://mia.udc.es/) with an honor distinction for my thesis on *Graph Parsing as Sequence Labeling*.
 - **Dec 9, 2024**: Paper accepted a [NoDaLiDa-2025](https://www.nodalida-bhlt2025.eu/)!
 - **Nov 19, 2024**: If you have approached me in our poster session at [EMNLP 2024](https://2024.emnlp.org/) (or you did not have time to do it), feel free to ask any doubt about our work😄.
 - **Nov 6, 2024**: Headed to Miami🏖️ to present our graph linearizations at [EMNLP 2024](https://2024.emnlp.org/)!
