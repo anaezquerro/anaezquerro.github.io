@@ -1,9 +1,7 @@
 languageCode = 'en-us'
 title = 'Ana Ezquerro'
 author = "anaezquerro"
-
-[markup]
-  defaultMarkdownHandler = "goldmark"
+baseURL = "https://anaezquerro.github.io/"
 
 
 [params]
@@ -16,9 +14,9 @@ author = "anaezquerro"
 
 [menu]
   [[menu.main]]
-    name = ""
-    pre = ""
-    url = "/"
+    name = "About"
+    url = "/about"
+    weight = 1
   [[menu.main]]
     name = "GitHub"
     url = "https://github.com/anaezquerro"
