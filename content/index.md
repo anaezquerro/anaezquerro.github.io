@@ -5,7 +5,6 @@ I'm an NLP researcher at the [LyS Group](https://www.grupolys.org/) ([University
 My initial research covers **time series** analysis and **machine learning** algorithms applied to **statistics**. Right now I am working on **graph/tree (incremental) parsing** and **multimodal learning**. I am also planning a PhD degree on **efficient and human-like incremental language representations**. 
 
 
-
 ## News
 
 - **Feb 21, 2025**: Completed my [Master's degree in Artificial Intelligence (UDC)](https://mia.udc.es/) with an honor distinction for my thesis on *Graph Parsing as Sequence Labeling*.
