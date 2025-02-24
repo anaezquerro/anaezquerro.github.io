@@ -1,5 +1,9 @@
 {{ define "main" }}
 <main>
+  <section class="home-content">
+    {{ .Content }}
+  </section>
+
   {{ if $.Site.Params.isBlogFocused }}
     <section class="posts-section">
       <h2>Recent Posts</h2>
