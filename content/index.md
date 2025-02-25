@@ -14,7 +14,7 @@ My initial research covers **time series** analysis and **machine learning** alg
 
 ## Research 
 
-- **Better Benchmarking LLMs for Zero-Shot Dependency Parsing** (to appear)
+- **Better Benchmarking LLMs for Zero-Shot Dependency Parsing**
 
     [Ana Ezquerro](https://anaezquerro.github.io), [David Vilares](https://www.grupolys.org/~david.vilares/) and  [Carlos Gómez-Rodríguez](https://www.grupolys.org/~cgomezr/)
 
