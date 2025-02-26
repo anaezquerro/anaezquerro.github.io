@@ -20,7 +20,7 @@ My initial research covers **time series** analysis and **machine learning** alg
 
     *In the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)*.
 
-    [pdf](https://dspace.ut.ee/items/a8ed5397-ee52-4f32-a86d-a130e9926cbc) | [poster](https://anaezquerro.github.io/material/nodalida-2025-poster.pdf)
+    [pdf](https://dspace.ut.ee/items/a8ed5397-ee52-4f32-a86d-a130e9926cbc) | [code](https://github.com/anaezquerro/naipar) | [poster](https://anaezquerro.github.io/material/nodalida-2025-poster.pdf)
 
 - **Dependency Graph Parsing as Sequence Labeling** 
 
