@@ -8,7 +8,7 @@ author = "anaezquerro"
     showHeroImage = true
     showResumeButton = false
     name = "Ana Ezquerro"
-    slogan = "NLP Researcher @ LyS (UDC)"
+    slogan = "DL Researcher/Engineer @ LyS (UDC)"
 
 [menu]
   [[menu.main]]
