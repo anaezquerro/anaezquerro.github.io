@@ -8,7 +8,7 @@ My initial research covers **time series** analysis and **machine learning** alg
 ## News
 
 - **Mar 5, 2025**: A lot of people came to my poster at [NoDaLiDa/Baltic-HLT 2025](https://www.nodalida-bhlt2025.eu/) (I'm really happy for that😄) and made a lot of suggestions to extend/improve our paper. We are now open for new collaborations, so if you are interested in a similar topic maybe we can talk about it.  
-- **Feb 21, 2025**: Completed my [master's degree in Artificial Intelligence (UDC)](https://mia.udc.es/) with an honor distinction for my thesis on *Graph Parsing as Sequence Labeling*.
+- **Feb 21, 2025**: Completed my [master's degree in Artificial Intelligence (UDC)](https://mia.udc.es/) with an honor distinction for my thesis on [*Graph Parsing as Sequence Labeling*](https://anaezquerro.github.io/material/AnaEzquerro-MasterThesis.pdf).
 - **Dec 9, 2024**: Paper accepted at [NoDaLiDa/Baltic-HLT 2025](https://www.nodalida-bhlt2025.eu/)!
 - **Nov 19, 2024**: If you have approached me in our poster session at [EMNLP 2024](https://2024.emnlp.org/) (or you did not have time to do it), feel free to ask any doubt about our work😄.
 - **Nov 6, 2024**: Headed to Miami🏖️ to present our graph linearizations at [EMNLP 2024](https://2024.emnlp.org/)!
