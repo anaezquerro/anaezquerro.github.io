@@ -15,11 +15,13 @@ My initial research covers **time series** analysis and **machine learning** alg
 
 ## Research 
 
-- **LyS at SemEval 2025 Task 8: Zero-Shot Code Generation for Tabular QA**
+- **LyS at SemEval 2025 Task 8: Zero-Shot Code Generation for Tabular QA** (to appear)
 
     Adrián Gude, [Roi Santos-Ríos](https://dunque.github.io/), Francisco Prado-Valiño, [Ana Ezquerro](https://anaezquerro.github.io), [Jesús Vilares](https://www.grupolys.org/~jvilares/).
 
     *In the 19th International Workshop on Semantic Evaluation (SemEval 2025) co‑located with the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)*
+
+    [code](https://github.com/adrian-gude/Tabular_QA)
 
 - **Better Benchmarking LLMs for Zero-Shot Dependency Parsing**
 
