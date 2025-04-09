@@ -82,3 +82,16 @@ My initial research covers **time series** analysis and **machine learning** alg
     *In the 5th XoveTIC Conference (XoveTIC 2022)*
     
     [pdf](https://easychair.org/publications/paper/1gRq)  |  [code](https://github.com/anaezquerro/dynamic-arimax)  |  [slides](https://github.com/anaezquerro/dynamic-arimax/blob/main/proceedings/presentation.pdf)
+
+
+## Academy 
+
+**Supervision**:
+- *Statistical and NLP methods for the analysis of political discourse in Spain* (bachelor thesis, in-progress).
+- *Development of a database for the analysis of housing rentals* (bachelor thesis, in-progress).
+
+**Services**:
+- Compensation Board member of the [Faculty of Computer Science](https://www.fic.udc.es/es) ([University of A Coruña](https://udc.es/en/)) from 2020 to 2023.
+- Member of the [Student's Committee in the Master in Artificial Intelligence](https://www.fic.udc.es/es/comisiones) ([University of A Coruña](https://udc.es/en)) from 2023 to 2025.
+- Active member of the [Student Board](https://www.fic.udc.es/es/organos-de-gobierno) in the [Faculty of Computer Science](https://www.fic.udc.es/es) ([University of A Coruña](https://udc.es/en/)) since 2021.
+- Active member of the Academic Evaluation Committee of [UTC's Docentia Program](https://www.udc.es/en/utc/docentia/).
