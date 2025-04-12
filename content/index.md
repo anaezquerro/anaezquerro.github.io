@@ -2,7 +2,8 @@
 
 I'm an NLP researcher and engineer at the [LyS Group](https://www.grupolys.org/) ([University of A Coruña](https://www.udc.es)). I previously obtained a bachelor's degree in [Data Science and Engineering](https://estudos.udc.es/en/study/detail/614g02v01) (July 2023), and, recently, a master's degree in [Artificial Intelligence](https://mia.udc.es/) (February 2025).
 
-My initial research covers **time series** analysis and **machine learning** algorithms applied to **statistics**. Right now I am working on **graph/tree (incremental) parsing** and **multimodal learning**. I am also planning a PhD degree on **efficient and human-like incremental language representations**. 
+My initial research covers **time series** analysis and **machine learning** algorithms applied to **statistics**. Right now I am working on **graph/tree (incremental) parsing**, **multimodal learning** and **efficient and human-like incremental language representations**. 
+<!-- I am also planning a PhD degree on -->
 
 
 ## News
