@@ -18,6 +18,13 @@ My initial research covers **time series** analysis and **machine learning** alg
 
 ## Research 
 
+- **Hierarchical Bracketing Encodings for Dependency Parsing as Tagging** 
+
+    [Ana Ezquerro](https://anaezquerro.github.io), [David Vilares](https://www.grupolys.org/~david.vilares/), [Anssi Yli-Jyrä](https://researchportal.helsinki.fi/en/persons/anssi-yli-jyr%C3%A4) and [Carlos Gómez-Rodríguez](https://www.grupolys.org/~cgomezr/).
+
+    [pdf](https://arxiv.org/abs/2505.11693)
+
+
 - **LyS at SemEval 2025 Task 8: Zero-Shot Code Generation for Tabular QA** (to appear)
 
     Adrián Gude, [Roi Santos-Ríos](https://dunque.github.io/), Francisco Prado-Valiño, [Ana Ezquerro](https://anaezquerro.github.io), [Jesús Vilares](https://www.grupolys.org/~jvilares/).
