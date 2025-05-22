@@ -20,7 +20,9 @@ My initial research covers **time series** analysis and **machine learning** alg
 
 - **Hierarchical Bracketing Encodings for Dependency Parsing as Tagging** 
 
-    [Ana Ezquerro](https://anaezquerro.github.io), [David Vilares](https://www.grupolys.org/~david.vilares/), [Anssi Yli-Jyrä](https://researchportal.helsinki.fi/en/persons/anssi-yli-jyr%C3%A4) and [Carlos Gómez-Rodríguez](https://www.grupolys.org/~cgomezr/).
+    [Ana Ezquerro](https://anaezquerro.github.io), [David Vilares](https://www.grupolys.org/~david.vilares/), [Anssi Yli-Jyrä](https://researchportal.helsinki.fi/en/persons/anssi-yli-jyr%C3%A4) and [Carlos Gómez-Rodríguez](https://www.grupolys.org/~cgomezr/). 
+
+    *In the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025).*
 
     [pdf](https://arxiv.org/abs/2505.11693)
 
