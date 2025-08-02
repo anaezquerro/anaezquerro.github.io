@@ -1,14 +1,15 @@
 # Hi👋 I am **Ana Ezquerro**
 
-I'm a research engineer at the [LyS Group](https://www.grupolys.org/) ([University of A Coruña](https://www.udc.es)). I previously obtained a bachelor's degree in [Data Science and Engineering](https://estudos.udc.es/en/study/detail/614g02v01) (July 2023), and, recently, a master's degree in [Artificial Intelligence](https://mia.udc.es/) (February 2025).
+I am a research engineer at the [LyS Group](https://www.grupolys.org/) ([University of A Coruña](https://www.udc.es)). I previously obtained a BSc in [Data Science and Engineering](https://estudos.udc.es/en/study/detail/614g02v01) (July 2023), and, recently, a MSc in [Artificial Intelligence](https://mia.udc.es/) (February 2025). 
 
 My initial research covers **time series** analysis and **machine learning** algorithms applied to **statistics**. Right now I am working on **graph/tree parsing** and **efficient and human-like language representations**. 
 <!-- I am also planning a PhD degree on -->
 
+On September 2025, I will start a PhD in *Efficient and Trustworthy Learning Algorithms* at [TU Graz](https://www.tugraz.at/en/home)/[IML](https://www.tugraz.at/institute/iml/home) under the supervision of [Ozan Özdenizci](https://oozdenizci.github.io/).
 
 ## News
 
-
+- **August 2, 2025**: Amazing experience in Vienna! If we have met at [ACL 2025](https://2025.aclweb.org/) feel free to reach out again to talk about NLP research or meet in future venues and cities😄.
 - **May 16, 2025**: Paper accepted at [ACL 2025](https://2025.aclweb.org/). See you in Vienna!
 - **Mar 5, 2025**: A lot of people came to my poster at [NoDaLiDa/Baltic-HLT 2025](https://www.nodalida-bhlt2025.eu/) (I'm really happy for that😄) and made a lot of suggestions to extend/improve our paper. We are now open for new collaborations, so if you are interested in a similar topic maybe we can talk about it.  
 - **Feb 21, 2025**: Completed my [master's degree in Artificial Intelligence (UDC)](https://mia.udc.es/) with an honor distinction for my thesis on [*Graph Parsing as Sequence Labeling*](https://anaezquerro.github.io/material/AnaEzquerro-MasterThesis.pdf).
