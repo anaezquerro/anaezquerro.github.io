@@ -25,7 +25,7 @@ On September 2025, I will start a PhD in *Efficient and Trustworthy Learning Alg
 
     *In the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025).*
 
-    [pdf](https://arxiv.org/abs/2505.11693)
+    [pdf](https://aclanthology.org/2025.acl-long.903/) | [code](https://github.com/anaezquerro/separ) | [slides](https://anaezquerro.github.io/material/acl-2025-slides.pdf) | [poster](https://anaezquerro.github.io/material/acl-2025-poster.pdf)
 
 
 - **LyS at SemEval 2025 Task 8: Zero-Shot Code Generation for Tabular QA** (to appear)
@@ -34,7 +34,7 @@ On September 2025, I will start a PhD in *Efficient and Trustworthy Learning Alg
 
     *In the 19th International Workshop on Semantic Evaluation (SemEval 2025) co‑located with the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)*
 
-    [code](https://github.com/adrian-gude/Tabular_QA)
+    [code](https://github.com/adrian-gude/Tabular_QA) | [poster](https://anaezquerro.github.io/material/semeval-2025-poster.pdf)
 
 - **Better Benchmarking LLMs for Zero-Shot Dependency Parsing**
 
