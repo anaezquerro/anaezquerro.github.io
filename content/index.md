@@ -28,13 +28,13 @@ On September 2025, I will start a PhD in *Efficient and Trustworthy Learning Alg
     [pdf](https://aclanthology.org/2025.acl-long.903/) | [code](https://github.com/anaezquerro/separ) | [slides](https://anaezquerro.github.io/material/acl-2025-slides.pdf) | [poster](https://anaezquerro.github.io/material/acl-2025-poster.pdf)
 
 
-- **LyS at SemEval 2025 Task 8: Zero-Shot Code Generation for Tabular QA** (to appear)
+- **LyS at SemEval 2025 Task 8: Zero-Shot Code Generation for Tabular QA**
 
     Adrián Gude, [Roi Santos-Ríos](https://dunque.github.io/), Francisco Prado-Valiño, [Ana Ezquerro](https://anaezquerro.github.io), [Jesús Vilares](https://www.grupolys.org/~jvilares/).
 
     *In the 19th International Workshop on Semantic Evaluation (SemEval 2025) co‑located with the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)*
 
-    [code](https://github.com/adrian-gude/Tabular_QA) | [poster](https://anaezquerro.github.io/material/semeval-2025-poster.pdf)
+    [pdf](https://aclanthology.org/2025.semeval-1.171/) | [code](https://github.com/adrian-gude/Tabular_QA) | [poster](https://anaezquerro.github.io/material/semeval-2025-poster.pdf)
 
 - **Better Benchmarking LLMs for Zero-Shot Dependency Parsing**
 
@@ -100,8 +100,8 @@ On September 2025, I will start a PhD in *Efficient and Trustworthy Learning Alg
 ## Academy 
 
 **Supervision**:
-- *Statistical and NLP methods for the analysis of political discourse in Spain* (bachelor thesis, in-progress).
-- *Development of a database for the analysis of housing rentals* (bachelor thesis, in-progress).
+- *Statistical and NLP methods for the analysis of political discourse in Spain* (bachelor thesis).
+- *Development of a database for the analysis of housing rentals* (bachelor thesis, finished).
 
 **Services**:
 - Compensation Board member of the [Faculty of Computer Science](https://www.fic.udc.es/es) ([University of A Coruña](https://udc.es/en/)) from 2020 to 2023.
