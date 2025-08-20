@@ -5,10 +5,11 @@ I am a research engineer at the [LyS Group](https://www.grupolys.org/) ([Univers
 My initial research covers **time series** analysis and **machine learning** algorithms applied to **statistics**. Right now I am working on **graph/tree parsing** and **efficient and human-like language representations**. 
 <!-- I am also planning a PhD degree on -->
 
-On September 2025, I will start a PhD in *Efficient and Trustworthy Learning Algorithms* at [TU Graz](https://www.tugraz.at/en/home)/[IML](https://www.tugraz.at/institute/iml/home) under the supervision of [Ozan Özdenizci](https://oozdenizci.github.io/).
+In September 2025, I will start a PhD in *Efficient and Trustworthy Learning Algorithms* at [TU Graz](https://www.tugraz.at/en/home)/[IML](https://www.tugraz.at/institute/iml/home) under the supervision of [Ozan Özdenizci](https://oozdenizci.github.io/).
 
 ## News
 
+- **August 20, 2025**: Paper accepted at [EMNLP 2025](https://2025.emnlp.org/). Really excited to finally visit China!
 - **August 2, 2025**: Amazing experience in Vienna! If we have met at [ACL 2025](https://2025.aclweb.org/) feel free to reach out again to talk about NLP research or meet in future venues and cities😄.
 - **May 16, 2025**: Paper accepted at [ACL 2025](https://2025.aclweb.org/). See you in Vienna!
 - **Mar 5, 2025**: A lot of people came to my poster at [NoDaLiDa/Baltic-HLT 2025](https://www.nodalida-bhlt2025.eu/) (I'm really happy for that😄) and made a lot of suggestions to extend/improve our paper. We are now open for new collaborations, so if you are interested in a similar topic maybe we can talk about it.  
