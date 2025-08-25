@@ -20,6 +20,13 @@ In September 2025, I will start a PhD in *Efficient and Trustworthy Learning Alg
 
 ## Research 
 
+- **Hierarchical Bracketing Encodings Workf for Dependency Graphs** (to appear)
+
+    [Ana Ezquerro](https://anaezquerro.github.io), [Carlos Gómez-Rodríguez](https://www.grupolys.org/~cgomezr/) and [David Vilares](https://www.grupolys.org/~david.vilares/).
+
+    *In the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)*
+
+
 - **Hierarchical Bracketing Encodings for Dependency Parsing as Tagging** 
 
     [Ana Ezquerro](https://anaezquerro.github.io), [David Vilares](https://www.grupolys.org/~david.vilares/), [Anssi Yli-Jyrä](https://researchportal.helsinki.fi/en/persons/anssi-yli-jyr%C3%A4) and [Carlos Gómez-Rodríguez](https://www.grupolys.org/~cgomezr/). 
