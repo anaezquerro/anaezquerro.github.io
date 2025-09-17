@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student @ TU Graz/IML
+subtitle: PhD student @ TU Graz (IML)
 
 profile:
   align: right
