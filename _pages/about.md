@@ -25,4 +25,4 @@ latest_posts:
 
 Hi:wave: I am a first-year PhD student in the [Institute of Machine Learning and Neural Computation](https://www.iml.tugraz.at) at [Graz University of Technology](https://www.tugraz.at/), under the supervision of [Ozan Özdenizci](https://oozdenizci.github.io/). I previously obtained a BSc in [Data Science and Engineering](https://estudos.udc.es/en/study/detail/614g02v01) and a MSc in [Artificial Intelligence](https://mia.udc.es/) at [University of A Coruña](https://www.udc.es). 
 
-My early research focused on time series analys sand machine learning methods applied to statistics (2021-2022). Afterwards, I shifted my work towards graph and tree parsing (2023-2025). Currently, my interests have evolved to efficient and robust deep learning.
+My early research focused on time series analys sand machine learning methods applied to statistics (2021-2022). Afterwards, I shifted my work towards graph and tree parsing (2023-2025). Currently, my interests are evolving to efficient and robust deep learning.
