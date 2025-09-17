@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - anaezquerro
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - anaezquerro/separ
+  - anaezquerro/semeval24-task3
+  - anaezquerro/dynamic-arimax
+  - anaezquerro/recsys-smpd
