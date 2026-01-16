@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper about diffusion + adversarial tagging has been accepted at EACL 2026!
+Our paper about diffusion & adversarial tagging has been accepted at [EACL 2026](https://2026.eacl.org/)!
