@@ -81,6 +81,12 @@ ninja.data = [{
           section: "News",},{id: "news-paper-accepted-at-emnlp-2025-really-excited-to-finally-visit-china",
           title: 'Paper accepted at EMNLP 2025. Really excited to finally visit China!',
           description: "",
+          section: "News",},{id: "news-i-ve-been-awarded-by-the-university-of-a-coruña-with-the-outstanding-master-s-degree-award-2024-25",
+          title: 'I’ve been awarded by the University of A Coruña with the Outstanding Master’s...',
+          description: "",
+          section: "News",},{id: "news-our-paper-about-diffusion-adversarial-tagging-has-been-accepted-at-eacl-2026",
+          title: 'Our paper about diffusion + adversarial tagging has been accepted at EACL 2026!...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
