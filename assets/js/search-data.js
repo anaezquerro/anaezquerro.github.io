@@ -87,6 +87,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-about-diffusion-amp-amp-adversarial-tagging-has-been-accepted-at-eacl-2026",
           title: 'Our paper about diffusion &amp;amp;amp; adversarial tagging has been accepted at EACL 2026!...',
           description: "",
+          section: "News",},{id: "news-very-happy-to-announce-that-i-will-join-amazon-science-madrid-as-an-intern-in-september-2026",
+          title: 'Very happy to announce that I will join Amazon Science (Madrid) as an...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
