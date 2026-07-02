@@ -1,12 +1,15 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /academia/
+title: academia
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+During my time as a researcher at the the [LyS Group](https://www.grupolys.org/lys_en.html), I had the opportunity to co-supervise bachelor theses at the [University of A Coruña](https://www.udc.es):
 
-Organize your courses by years, topics, or universities, however you like!
+- [Development of a database for the analysis of housing rentals](https://ruc.udc.es/entities/publication/2870e5a2-5310-42f3-978d-3b346d33fb5d) by [Antía López Rodríguez](mailto:antia.lopezr@udc.es), co-supervised with [Ángeles Saavedra Places](https://pdi.udc.es/en/File/Pdi/PL7AF).
+- 
+- Modeling and linguistic analysis of speeches in the Congress using NLP (*in progress*) by [Inés González Rodríguez](ines.gonzalez.rodriguez@udc.es), co-supervised with [David Vilares](https://www.grupolys.org/~david.vilares/).
+
+- Training dynamics for the characterization of synthetic data in NLP (*in progress*) by [Irene Lago Pato](i.lago@udc.es), co-supervised with [David Vilares](https://www.grupolys.org/~david.vilares/).
