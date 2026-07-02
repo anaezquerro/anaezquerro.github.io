@@ -17,7 +17,7 @@ During my research time at the [LyS Group](https://www.grupolys.org/lys_en.html)
 - *Training dynamics for the characterization of synthetic data in NLP* (ready to present) by [Irene Lago Pato](i.lago@udc.es), co-supervised with [David Vilares](https://www.grupolys.org/~david.vilares/).
 
 
-Although I am now pursuing my PhD at TU Graz, I remain open to co-supervise theses at both institutions. If you are a studnet interest in collaboration on any of the following topics, please feel free to reach out to me:
+Although I am now pursuing my PhD at TU Graz, I remain open to co-supervise theses at both institutions. If you are a student interested in collaboration on any of the following topics feel free to reach out!
 
 - Abstract Visual Reasoning.
 - Diffusion Models for Reasoning Problems.
