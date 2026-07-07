@@ -23,3 +23,6 @@ Although I am now pursuing my PhD at TU Graz, I remain open to co-supervise thes
 - Diffusion Models for Reasoning Problems.
 - Efficient Generative Modeling.
 - Syntactic and semantic parsing.
+- Graph learning and applications.
+
+
